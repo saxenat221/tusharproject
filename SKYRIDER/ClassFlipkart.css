@@ -1,0 +1,192 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+
+.logo{
+    width: 145px;
+}
+
+.menu{
+    display: flex;
+    list-style-type: none;
+}
+.menu li{
+    padding:25px;
+    font-size: 18px;
+    margin-left: 20px;
+    padding-top: 35px;
+    padding-bottom:22px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.menu li:hover{
+    color: rgb(37, 199, 191);
+    background-color:rgb(247, 247, 247);
+}
+.menu-bar{
+    display: flex;
+    justify-content: space-between;
+    padding-left:80px;
+    align-items: center;
+    height:60px;
+    position: relative;
+
+}
+.header{
+    background-color: rgb(5, 77, 231);
+    height: 70px;
+}
+.sale{
+    width:750px;
+    padding-left: 340px;
+    padding-top:50px ;
+    
+}
+.salevideo{
+    width:750px;
+    padding-left: 340px;
+    padding-top:50px ;
+}
+
+.footer{
+    text-align: center;
+    background-color: red;
+}
+.product-details{
+    text-align: center;
+    padding: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+.pname{
+    font-size:150% ;
+}
+.text{
+    font-size: 130%;
+}
+.pmodel{
+    font-size:150% ;
+}
+.number{
+    font-size: 130%;
+}
+.pdate{
+    font-size:150% ;
+}
+.date{
+    font-size: 130%;
+}
+.pworking{
+    font-size:150% ;
+}
+.pyes{
+    font-size: 130%;
+}
+.pno{
+    font-size: 130%;
+}
+.form{
+    text-align: center;
+    
+}
+.pdetails{
+    font-size:150% ;
+}
+.parea{
+    font-size: 130%;
+}
+.pbutton{
+    font-size: 130%;
+}
+.div{
+    background-color: rgb(132, 192, 192);
+}
+.form2{
+    text-align: center;
+    
+}
+.account-details{
+    text-align: center;
+    padding: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+.login{
+    font-size:150% ;
+}
+.password{
+    font-size:150% ;
+}
+.email{
+    font-size:130% ;
+}
+.fnumber{
+   
+        font-size:130% ;
+    }
+    .fbutton{
+        font-size: 130%;
+    }
+    .div2{
+        background-color: rgb(219, 99, 52);
+    }
+    .sname{
+        font-size:150% ;
+    }
+    .tmail{
+        font-size:150% ;
+    }
+    .spassword{
+        font-size:150% ;
+    }
+    .semail{
+        font-size:130% ;
+    }
+    .snumber{
+       
+            font-size:130% ;
+        }
+        .sbutton{
+            font-size: 130%;
+        }
+        .mobiles{
+
+            width:340px;
+        }
+        .electronics{
+        
+            width:300px;
+        }
+        .tv{
+        
+            width:350px;
+        }
+        .fashion{
+        
+            width:240px;
+        }
+        .body{
+            background-image: url(/SKYRIDER/sale2.gif);
+        }
+        .container{
+            padding-top: 70px;
+            
+        
+        }
+        .sd{
+            text-align: center;
+            padding-top: 60px;
+            text-decoration: underline;
+            font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            color: brown;
+        }
+        .body2{
+            background-image: url(/SKYRIDER/Delivery-Boy-Jobs-for-12th-Pass-in-Pune.jpg);
+        }
+        .body3{
+            background-image: url(/SKYRIDER/flipkart-acc.-managment.jpg.crdownload);
+        }
